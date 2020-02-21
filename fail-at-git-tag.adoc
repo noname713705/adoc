@@ -2,7 +2,7 @@
 :toc:
 :toclevels: 4
 :numbered:
-:syntax-highlighter: highlightjs
+:source-highlighter: highlightjs
 :highlightjs-theme: agate
 
 == Try to clone base on tag
@@ -17,6 +17,7 @@ $ git ls-tree HEAD
 $ git tag tag01 6f1339b464bd8eac13cc693d477877631599ca5d # only tagging one dir
 ----
 
+[source, bash]
 ----
 $ git clone mono-test/ --branch=tag01 mono-clone01
 
