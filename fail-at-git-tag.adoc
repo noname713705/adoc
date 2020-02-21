@@ -5,7 +5,7 @@
 :source-highlighter: highlightjs
 :highlightjs-theme: agate
 
-== Try to clone base on tag
+== Try to clone based on tag
 
 [source, bash]
 ----
@@ -26,6 +26,8 @@ done.
 error: object 6f1339b464bd8eac13cc693d477877631599ca5d is a tree, not a commit
 Segmentation fault
 ----
+
+* fail !
 
 == highlight debug
 * value of `highlightjs-theme`={highlightjs-theme}
