@@ -26,3 +26,6 @@ done.
 error: object 6f1339b464bd8eac13cc693d477877631599ca5d is a tree, not a commit
 Segmentation fault
 ----
+
+== highlight debug
+* value of `highlightjs-theme`=${highlightjs-theme}
