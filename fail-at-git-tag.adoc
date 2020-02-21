@@ -28,4 +28,4 @@ Segmentation fault
 ----
 
 == highlight debug
-* value of `highlightjs-theme`=${highlightjs-theme}
+* value of `highlightjs-theme`={highlightjs-theme}
