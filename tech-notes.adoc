@@ -1,0 +1,19 @@
+= tech notes
+:toc:
+:toclevels: 4
+:numbered:
+:syntax-highligher: highlightjs
+:highlightjs-theme: agate
+
+== getAll from cache should never expire
+
+== Asynch cache reload
+
+== Ignite crash notes
+* backups is only for DISTRIBUTED
+** no sense for REPLICATED
+** at least until 2.7.0
+** official documentation says so, BTW
+*** https://apacheignite.readme.io/v2.7/docs/primary-and-backup-copies
+** unlike near cache ?
+*** https://apacheignite.readme.io/v2.7/docs/near-caches
