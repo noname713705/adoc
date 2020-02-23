@@ -10,7 +10,7 @@
 == Asynch cache reload
 
 == Ignite crash notes
-* backups is only for DISTRIBUTED
+* backups is only for PARTITIONNED
 ** no sense for REPLICATED
 ** at least until 2.7.0
 ** official documentation says so, BTW
