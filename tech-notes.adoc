@@ -19,6 +19,15 @@
 *** https://apacheignite.readme.io/v2.7/docs/near-caches
 *** But that is necessarily on heap (not off heap)
 
+== Investigate cache + queue
+* make your cache LOCAL
+* don't automatically propagate changes
+* replicate changes commands via topics
+* each subscriber should apply the command to it's local copy of the cahe
+** less headaches with frameworks internals
+** no overhead of read operations due to ditributed architecture
+** You can view it as CQRS where reads are done in local cache, and writes to distributed topics
+
 == double check RevealJs
 * https://asciidoctor.org/docs/asciidoctor-revealjs/#showcase-presentations
 * https://revealjs.com/
