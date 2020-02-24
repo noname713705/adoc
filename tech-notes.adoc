@@ -17,3 +17,7 @@
 *** https://apacheignite.readme.io/v2.7/docs/primary-and-backup-copies
 ** unlike near cache ?
 *** https://apacheignite.readme.io/v2.7/docs/near-caches
+
+== double check RevealJs
+* https://asciidoctor.org/docs/asciidoctor-revealjs/#showcase-presentations
+* https://revealjs.com/
