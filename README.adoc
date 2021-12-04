@@ -1,0 +1,7 @@
+= README
+:toc:
+:toclevels: 4
+:numbered:
+
+== notes
+* Just here to try a few things with asciidoctor
