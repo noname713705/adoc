@@ -10,31 +10,32 @@
 == apps
 
 [%header%autowidth]
-|=================================================================================================================
-| function         | app                                    | paying  | url
-| <<recovery>>     | twrp                                   | N       |
-| android 11       | havocOS                                | N       |
-| gapps            | micro opengapps                        | N       |
-| torch            | <<built in>>                           | |
-| hardware info    | phone info / phone info + samsung      |         |
+|=============================================================================================================================================
+| function         | app                                    | paying | url
+| <<recovery>>     | twrp                                   | N      |
+| android 11       | havocOS                                | N      |
+| gapps            | micro opengapps                        | N      |
+| torch            | <<built in>>                           | N      |
+| hardware info    | phone info / phone info + samsung      |        |
 | browser          | firefox                                | Y      |
 | qr / barcode     | ??                                     | Y      |
 | google           | files gmail drive agenda maps chrome photos galery maps youtube SkyMap | N       | play.google.com
-| podcast          | podcast addict                         | Y |
-| calc             | rpn                                    | N |
-| music            | dsaudio                                | N |
-| audio book       | audible                                | N |
-| scanner          | google drive                           | N  |  
-| meteo            | Buienalarm                             | N  |  
-| hifi remote      | Onkyo remote                           | N  |  
-| messaging        | WhatsApp                               | N  |  
-| banking          | <<mybank1>>                            | N  |  
-| banking          | <<mybank2>>                            | N  |  
-| mobility         | Villo                                  | N  |  
-| OS backup        | <<twrp recovery>>                      | N  |  
-| app backup       | Titanium backup                        | N  |  
-| root             | magisk / SuperSU                       | N  |  
-|=================================================================================================================
+| podcast          | podcast addict                         | Y      |
+| calc             | rpn                                    | N      |
+| music            | dsaudio                                | N      |
+| audio book       | audible                                | N      |
+| scanner          | google drive                           | N      |  
+| QR / bar code    | QR & bar code scanner gamma play       | N      | https://play.google.com/store/apps/details?id=com.gamma.scan
+| meteo            | Buienalarm                             | N      |  
+| hifi remote      | Onkyo remote                           | N      |  
+| messaging        | WhatsApp                               | N      |  
+| banking          | <<mybank1>>                            | N      |  
+| banking          | <<mybank2>>                            | N      |  
+| mobility         | Villo                                  | N      |  
+| OS backup        | <<twrp recovery>>                      | N      |  
+| app backup       | Titanium backup                        | N      |  
+| root             | magisk / SuperSU                       | N      |  
+|=============================================================================================================================================
 
 == HavocOS bugs
 * no sound with plugged headset
@@ -44,4 +45,5 @@
 * SIM card not found / phone deconnexion
 * sometime reboots for no reason (or battery)
 * battery does not last very long (less that a day)
+* give permission screen often freezes
 
