@@ -42,5 +42,6 @@
 * camera losts connection
 * launching Camera twice gets camera problems
 * SIM card not found / phone deconnexion
-
+* sometime reboots for no reason (or battery)
+* battery does not last very long (less that a day)
 
