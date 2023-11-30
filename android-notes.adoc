@@ -38,6 +38,8 @@
 |=============================================================================================================================================
 
 == HavocOS bugs
+
+=== HavocOS 4.6 / ANdroid 11
 * no sound with plugged headset
 ** works fine with bluetooth
 * camera losts connection
@@ -47,3 +49,5 @@
 * battery does not last very long (less that a day)
 * give permission screen often freezes
 
+=== havocOS 3.12 / Android
+* voted as very stable
