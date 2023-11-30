@@ -14,20 +14,20 @@
 | <<recovery>>     | twrp                                   | N       |
 | android 11       | havocOS                                | N       |
 | gapps            | micro opengapps                        | N       |
-| torch            | <<built in>>                           |
+| torch            | <<built in>>                           | |
 | hardware info    | phone info / phone info + samsung      |         |
-| qr / barcode     | ??                                     | Y
+| qr / barcode     | ??                                     | Y      |
 | google           | gmail drive agenda maps chrome photos gallery youtube | N       | play.google.com
-| podcast          | podcast addict                         | Y 
-| dlna             | dsaudio                                | N
-| scanner          | google drive                           | N    
-| hifi remote      | Onkyo remote                           | N    
-| messaging        | WhatsApp                               | N    
-| banking          | <<mybank1>>                            | N    
-| banking          | <<mybank2>>                            | N    
-| monility         | Villo                                  | N    
-| OS backup        | <<twrp recovery>>                      | N    
-| app backup       | Titanium backup                        | N    
-| root             | magisk / SuperSU                       | N    
+| podcast          | podcast addict                         | Y |
+| dlna             | dsaudio                                | N |
+| scanner          | google drive                           | N  |  
+| hifi remote      | Onkyo remote                           | N  |  
+| messaging        | WhatsApp                               | N  |  
+| banking          | <<mybank1>>                            | N  |  
+| banking          | <<mybank2>>                            | N  |  
+| monility         | Villo                                  | N  |  
+| OS backup        | <<twrp recovery>>                      | N  |  
+| app backup       | Titanium backup                        | N  |  
+| root             | magisk / SuperSU                       | N  |  
 |=================================================================================================================
 
