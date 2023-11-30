@@ -9,6 +9,7 @@
 
 == apps
 
+[%headers]
 |=================================================================================================================
 | function         | app                                    | paying  | url
 | <<recovery>>     | twrp                                   | N       |
@@ -16,18 +17,30 @@
 | gapps            | micro opengapps                        | N       |
 | torch            | <<built in>>                           | |
 | hardware info    | phone info / phone info + samsung      |         |
+| browser          | firefox                                | Y      |
 | qr / barcode     | ??                                     | Y      |
-| google           | gmail drive agenda maps chrome photos gallery youtube | N       | play.google.com
+| google           | files gmail drive agenda maps chrome photos galery maps youtube SkyMap | N       | play.google.com
 | podcast          | podcast addict                         | Y |
-| dlna             | dsaudio                                | N |
+| calc             | rpn                                    | N |
+| music            | dsaudio                                | N |
+| audio book       | audible                                | N |
 | scanner          | google drive                           | N  |  
+| meteo            | Buienalarm                             | N  |  
 | hifi remote      | Onkyo remote                           | N  |  
 | messaging        | WhatsApp                               | N  |  
 | banking          | <<mybank1>>                            | N  |  
 | banking          | <<mybank2>>                            | N  |  
-| monility         | Villo                                  | N  |  
+| mobility         | Villo                                  | N  |  
 | OS backup        | <<twrp recovery>>                      | N  |  
 | app backup       | Titanium backup                        | N  |  
 | root             | magisk / SuperSU                       | N  |  
 |=================================================================================================================
+
+== HavocOS bugs
+* no sound with plugged headset
+** works fine with bluetooth
+* camera losts connection
+* launching Camera twice gets camera problems
+* SIM card not found / phone deconnexion
+
 
