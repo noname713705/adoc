@@ -38,6 +38,8 @@
 |=============================================================================================================================================
 
 == HavocOS bugs
+* xda thread
+** https://xdaforums.com/t/rom-discontinued-11-havoc-os-4-x-tblte-trlte-trlteduos.4111357/page-11
 
 === HavocOS 4.6 / ANdroid 11
 * no sound with plugged headset
