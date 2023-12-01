@@ -51,5 +51,5 @@
 * battery does not last very long (less that a day)
 * give permission screen often freezes
 
-=== havocOS 3.12 / Android
+=== havocOS 3.12 / Android 10
 * voted as very stable
